@@ -57,7 +57,7 @@ rd-management-system
 ## API Documentation
 
 Swagger UI
-
+in docs folder
 
 
 
